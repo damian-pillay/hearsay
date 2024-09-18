@@ -1,0 +1,6 @@
+streamlit==1.38.0
+openai==1.43.0
+pyaudio==0.2.14
+azure-cognitiveservices-speech==1.40.0
+python-dotenv==1.0.1
+altair==5.4.1
